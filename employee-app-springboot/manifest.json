@@ -1,0 +1,8 @@
+{
+	"runtime": {
+		"majorVersion": "8"
+	},
+	"command": "java -jar app.jar",
+
+	"notes": "Demo"
+}
